@@ -16,7 +16,7 @@ Contact us at [epimetheusgamesogpc@gmail.com](mailto:epimetheusgamesogpc@gmail.c
 
 ## Past Members
 
--- Noah Johnson-Green: Programming, Art, Music
+- Noah Johnson-Green: Programming, Art, Music
 - Ranier Szatlocky: Moral Support
 - Elouan Grimm: Publicity, Level Design
 
