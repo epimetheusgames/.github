@@ -6,8 +6,18 @@ Contact us at [epimetheusgamesogpc@gmail.com](mailto:epimetheusgamesogpc@gmail.c
 
 ## Members
 
-- Carson Bates: Team Lead, Programming
-- Elouan Grimm: Publicity, Level Design
-- Alejandro Belgique: Music, SFX, Web Development
-- Liam Siegel: Art, SFX
+- Carson Bates: Team Lead, Programming, Music
+- Alejandro Belgique: Music & SFX Director, Web Development
+- Liam Siegel: Art Director, SFX
+- Xavier: Programming
+- Kai Benson: Programming, Art
+- Sequoia Haynes: Programming
+- Oscar: Art
+
+## Past Members
+
+-- Noah Johnson-Green: Programming, Art, Music
 - Ranier Szatlocky: Moral Support
+- Elouan Grimm: Publicity, Level Design
+
+The source code for our games is avialable in the repositories tab. You will need to know how to set them up with Godot.
