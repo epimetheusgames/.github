@@ -9,10 +9,10 @@ Contact us at [epimetheusgamesogpc@gmail.com](mailto:epimetheusgamesogpc@gmail.c
 - Carson Bates: Team Lead, Programming, Music
 - Alejandro Belgique: Music & SFX Director, Web Development
 - Liam Siegel: Art Director, SFX
-- Xavier: Programming
+- Xavier Jin: Programming
 - Kai Benson: Programming, Art
 - Sequoia Haynes: Programming
-- Oscar: Art
+- Oscar Jones: Art
 
 ## Past Members
 
